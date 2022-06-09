@@ -1,4 +1,4 @@
-package mike.kor.geoquiz;
+package mike.kor.geoquizchallenge;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -7,6 +7,8 @@ import android.widget.Button;
 
 import android.os.Bundle;
 import android.widget.Toast;
+
+import mike.kor.geoquiz.R;
 
 public class MainActivity extends AppCompatActivity {
 

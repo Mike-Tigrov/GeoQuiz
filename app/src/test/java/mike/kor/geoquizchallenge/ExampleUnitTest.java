@@ -1,4 +1,4 @@
-package mike.kor.geoquiz;
+package mike.kor.geoquizchallenge;
 
 import org.junit.Test;
 
